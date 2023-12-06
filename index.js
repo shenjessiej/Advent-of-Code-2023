@@ -4,5 +4,6 @@
 //require("./day3_p2")
 //require("./day4.js")
 //require("./day4_p2.js")
-require("./day5.js")
-require("./day5_p2.js")
+//require("./day5.js")
+//require("./day5_p2.js")
+require("./day6.js")
