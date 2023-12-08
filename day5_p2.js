@@ -302,7 +302,7 @@ function intervalsFromMapping(map_data, ivs) {
 
   let output_intervals = [];
   while (intervals.length > 0) {
-    console.log(intervals.length);
+    //console.log(intervals.length);
     let rule_matched = false;
     let input_range = intervals.pop();
 
