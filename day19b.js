@@ -544,7 +544,7 @@ function find_accepted_ranges_target(target) {
       if (rule.split(":")[1] == target || rule == target) {
         if (target == "A") {
           ans_ranges.set("x", [1, 4000]);
-          ans_ranges.set("m", [1, 4000]);
+          ans_ranges.set("m", [1, 4000]);.j
           ans_ranges.set("a", [1, 4000]);
           ans_ranges.set("s", [1, 4000]);
         }
